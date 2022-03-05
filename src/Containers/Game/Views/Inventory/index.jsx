@@ -15,18 +15,8 @@ import {
 } from './style'
 
 import {
-  GiDeadHead,
-  GiBandana,
   GiBandit,
-  
   GiSwapBag,
-  GiChelseaBoot,
-  GiBrodieHelmet,
-  GiChestArmor,
-  GiArmoredPants,
-  GiRoundShield,
-  GiBackpack,
-  GiMachineGunMagazine,
   GiHand,
 } from "react-icons/gi"
 

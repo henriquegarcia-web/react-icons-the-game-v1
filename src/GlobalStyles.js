@@ -26,6 +26,8 @@ const GlobalStyle = createGlobalStyle`
     --bg-blue-fade: linear-gradient(45deg, rgba(13, 6, 32, 0.25), rgba(10, 9, 36, 0.45));
     --bg-blue-hover: linear-gradient(45deg, rgba(13, 6, 32, 0.35), rgba(10, 9, 36, 0.55));
     --bg-blue-active: linear-gradient(45deg, rgba(13, 6, 32, 0.45), rgba(10, 9, 36, 0.65));
+
+    --bg-infernal: linear-gradient(45deg, rgba(10, 9, 36, 0.65), rgba(255, 68, 0, 0.06));
   
     --white-gradient: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.4));
   }

@@ -1,5 +1,5 @@
 import styled from "styled-components"
 
-export const AppGamePage = styled.div`
+export const GamePage = styled.div`
   
 `
